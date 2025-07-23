@@ -8,3 +8,4 @@ to move the media into anki folder and copy the special format syntax . record t
 2-rename the media to curent date and time 
 3-convert the media to special syntax format to copy in anki flashcard
 ## Author
+vimal
